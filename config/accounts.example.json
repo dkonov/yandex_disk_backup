@@ -1,0 +1,6 @@
+{
+  "accounts": [
+    {"id": "personal", "remote": "yandex_personal:", "enabled": true},
+    {"id": "family", "remote": "yandex_family:", "enabled": true}
+  ]
+}
