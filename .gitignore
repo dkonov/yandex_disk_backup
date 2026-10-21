@@ -1,0 +1,8 @@
+config/accounts.json
+config/rclone.conf
+config/*.conf
+data/
+*.sqlite3
+__pycache__/
+.pytest_cache/
+.env
